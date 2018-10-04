@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.add_dependency('rails', '>= 3.2')
   s.add_dependency('prawn', '>= 1.0.0')
 
-  s.add_development_dependency "rspec-rails", "3.0.0"
+  s.add_development_dependency "rspec-rails", "3.8.0"
   s.add_development_dependency "mocha", "0.14.0"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
