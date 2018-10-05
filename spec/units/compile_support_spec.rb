@@ -39,11 +39,11 @@ describe Prawnto::CompileSupport do
   end
 
   describe "#set_pragma" do
-    pending
+    skip
   end
 
   describe "#set_cache_control" do
-    pending
+    skip
   end
 
 end
