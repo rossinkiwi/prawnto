@@ -4,5 +4,5 @@ gemspec
 gem "guard"
 gem "guard-rspec"
 
-gem "rails", "4.2.10"
+gem "rails", "5.2.1"
 gem "test-unit"
