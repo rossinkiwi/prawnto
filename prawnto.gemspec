@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "prawnto_2"
-  s.version = '0.2.6'
+  s.version = '0.3.0'
   s.author = ["Jobber", "Forrest Zeisler", "Nathan Youngman"]
   s.email = ["forrest@getjobber.com"]
   s.date = Time.now.utc.strftime("%Y-%m-%d")
